@@ -1,17 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Arnav Gupta
+title: Arnav Gupta
 
 # Full name (for SEO)
 first_name: Arnav
 last_name: Gupta
-
-# Status emoji
-status:
-  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -39,12 +32,7 @@ education:
     - course: B.E. (Hons.) Computer Science
       institution: Birla Institute of Technology and Science, Pilani
       year: 2025
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
