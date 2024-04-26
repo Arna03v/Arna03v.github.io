@@ -81,7 +81,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:arnvgpta95@gmail.com
   - icon: github
     icon_pack: fab
     link: https://github.com/Arna03v
