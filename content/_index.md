@@ -94,4 +94,15 @@ sections:
 
     design:
       columns: '2'
+  - block: contact
+    id: contact
+    content:
+      title: Contact
+      subtitle:
+      text: 
+      email: arnvgpta95@gmail.com
+      autolink: true
+
+    design:
+      columns: '2'
 ---

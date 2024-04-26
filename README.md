@@ -6,6 +6,3 @@
 7. in project -> add your projects - done
 10. do we need the contact section? maybe just keep the email
 11. Gallery seems fun but not a priority item
-
-
-
