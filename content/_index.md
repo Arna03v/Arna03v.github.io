@@ -42,19 +42,11 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
-  
+    
   - block: experience
     id: projects
     content:
-      title: Projects
+      title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -74,6 +66,16 @@ sections:
           date_end: ''
           description: Working on creating a framework utilising asynchronous I/O calls for databases
 
+        - title: Simulation Intern
+          company: Greenphard
+          company_url: 'https://greenphard.com/en/home-2/'
+          company_logo: greenphard
+          location: Remote
+          date_start: '2024-05-15'
+          date_end: ''
+          description: Writing, containerizing and deploying code to work with PLC's along with CI/CD
+
+        
         - title: Undergraduate Researcher
           company:  Computing Education Research Group at BITS Pilani Goa
           company_url: ''
@@ -94,7 +96,20 @@ sections:
 
     design:
       columns: '2'
-  
+
+  - block: markdown
+    id: updates
+    content:
+      title: Updates
+      subtitle: ""
+      text: |
+        - **2024-03:** I will be interning as a Simulation Engineer at **[Greenphard](https://greenphard.com/en/home-2/)** 
+        - **2023-11:** I will be working as an undergraduate researcher at **Data, Systems and High Performance Computing Lab** at BITS Goa!
+        - **2023-06:** I will be working as a summer intern at **[Flam](https://flamapp.ai/)**
+        - **2023-06:**  I will be working as an undergraduate researcher under **Prof. Swaroop Joshi** at BITS Goa!
+        
+
+
   - block: contact
     id: contact
     content:
