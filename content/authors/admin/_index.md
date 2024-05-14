@@ -101,7 +101,7 @@ highlight_name: true
 
 I am a pre-final year undergraduate student at BITS Pilani, Goa, majoring in Computer Science. My research interests lie in computer systems, specifically distributed systems, storage systems, high-performance computing.
 
-I am working as a student researcher at the Data, Systems, and High-Performance Computing (DaSH) Lab with Prof. Arnab K. Paul on developing a framework which utilises asynchronous I/O calls for key-value stores. I have also worked with Prof. Kunal Kishore Korgaonkar on porting a section of GNSS-SDR from C to Rust to analyse performance and memory safety developments.
+I am working as a student researcher at the Data, Systems, and High-Performance Computing (DaSH) Lab with Prof. Arnab K. Paul on developing a framework which utilises asynchronous I/O calls for key-value stores. I have also worked with Prof. Kunal Kishore Korgaonkar on porting a section of GNSS-SDR from C to Rust to analyse performance and memory safety developments, and Prof Swaroop Joshi to build a Visual Studio Code Extension for the visually impaired.
 
 In my free time, I enjoy reading, and watching movies, and visiting museums and threatres.
 {style="text-align: justify;"}
