@@ -52,7 +52,7 @@ sections:
       columns: '1'
   
   - block: experience
-    id: experiences
+    id: projects
     content:
       title: Projects
       # Date format for experience
@@ -94,6 +94,7 @@ sections:
 
     design:
       columns: '2'
+  
   - block: contact
     id: contact
     content:

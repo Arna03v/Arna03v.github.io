@@ -23,8 +23,8 @@ bio:
 # Interests to show in About widget
 interests:
   - Operating systems
-  - I/O for High Performance Computing
-  - Distributed Computing
+  - High Performance Computin
+  - Storage systems
 
 # Education to show in About widget
 education:
