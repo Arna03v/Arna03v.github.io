@@ -72,8 +72,8 @@ sections:
           company_logo: greenphard
           location: Remote
           date_start: '2024-05-15'
-          date_end: ''
-          description: Writing, containerizing and deploying code to work with PLC's along with CI/CD
+          date_end: '2024-07-31'
+          description: Writing, containerizing and deploying code to work with PLC's on AWS along with CI/CD
 
         
         - title: Undergraduate Researcher
