@@ -103,7 +103,9 @@ sections:
       title: Updates
       subtitle: ""
       text: |
-        - **2024-03:** I will be interning as a Simulation Engineer at **[Greenphard](https://greenphard.com/en/home-2/)** 
+        - **2024-10:** Secured a six month internship at **[Electronic Arts](https://www.ea.com/)**.
+        - **2024-08:** My research paper **Studying the Effects of Asynchronous I/O on HPC I/O Patterns** was accepted at **[REX-IO 2024 @IEEE Cluster](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180685&copyownerid=169077)**.
+        - **2024-03:** I will be interning as a Simulation Engineer at **[Greenphard](https://greenphard.com/en/home-2/)** for summer. 
         - **2023-11:** I will be working as an undergraduate researcher at **Data, Systems and High Performance Computing Lab** at BITS Goa!
         - **2023-06:** I will be working as a summer intern at **[Flam](https://flamapp.ai/)**
         - **2023-06:**  I will be working as an undergraduate researcher under **Prof. Swaroop Joshi** at BITS Goa!
