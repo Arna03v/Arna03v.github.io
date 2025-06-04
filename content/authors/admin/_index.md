@@ -99,9 +99,28 @@ social:
 highlight_name: true
 ---
 
-I am a pre-final year undergraduate student at BITS Pilani, Goa, majoring in Computer Science. My research interests lie in computer systems, specifically distributed systems, storage systems, high-performance computing.
+I am a final-year Computer Science undergraduate at BITS Pilani, Goa, passionate about building scalable and highly available software systems. My goal is to work as a software engineer focusing on backend development and distributed computing, tackling the complex challenges that arise in designing and maintaining robust architectures.
 
-I am working as a student researcher at the Data, Systems, and High-Performance Computing (DaSH) Lab with Prof. [Arnab K. Paul](https://scholar.google.co.in/citations?user=az8MAG0AAAAJ&hl=en) on developing a framework which utilises asynchronous I/O calls for key-value stores. I have also worked with Prof. Kunal [Kishore Korgaonkar](https://scholar.google.com/citations?user=8v7yv7oAAAAJ&hl=en) on porting a section of GNSS-SDR from C to Rust to analyse performance and memory safety developments, and Prof [Swaroop Joshi](https://swaroopjoshi.in/) to build a Visual Studio Code Extension for the visually impaired.
+I have worked as a student researcher at the Data, Systems, and High-Performance Computing (DaSH) Lab with Prof. [Arnab K. Paul](https://scholar.google.co.in/citations?user=az8MAG0AAAAJ&hl=en), on developing a framework that utilises asynchronous I/O calls for key-value stores. Previously, I have worked with Prof. Kunal [Kishore Korgaonkar](https://scholar.google.com/citations?user=8v7yv7oAAAAJ&hl=en) on porting a section of GNSS-SDR from C to Rust to analyse performance and memory safety developments, and with Prof [Swaroop Joshi](https://swaroopjoshi.in/) to build a Visual Studio Code extension for the visually impaired.
 
-In my free time, I enjoy reading, and watching movies, and visiting museums and threatres.
+I enjoy diving deep into well-thought-out design architectures that effectively address specific problems, finding satisfaction in creating solutions that matter. I am especially drawn to learning from peers who exhibit exceptional understanding, clean problem-solving skills, and an eye for detail — qualities I continuously strive to develop in myself.
+
+Outside of tech, I spend my time reading, watching movies, and exploring museums and theatres. Always looking for new experiences that inspire creativity and curiosity.
+
+## **Industry Impact**  
+### **Electronic Arts** (2025)  
+Led migration of microservices to Java 21, improving response time per request by 20% and overall latency by 25%.
+### **e6data** (2024)
+Implemented spill-to-disk pipeline for join algorithms.
+### **Greenphard Energy** (2024)  
+Implemented a 25% faster Rust-based TCPModbus client-server.
+### **Flamingoes Technologies** (2023)  
+Enhanced search functionality by implementing data structures, leading to a 40% boost in search query performance.
+
+## **Research Experience**
+### **Data, Systems, and High-Performance Computing (DaSH) Lab**
+*["Studying the effects of Asynchronous I/O on HPC I/O Patterns " Arnav Gupta†, Druva Dhakshinamoorthy†, Arnab K. Paul](https://ieeexplore.ieee.org/document/10740888)* is accepted at REX-IO 2024 @IEEE Cluster under the guidance of Prof. Arnab K. Paul.
+
+### **Confluence Lab**
+Porting sections of GNSS-SDR from C to Rust to understand and address memory safety issues and performance gains.
 {style="text-align: justify;"}
